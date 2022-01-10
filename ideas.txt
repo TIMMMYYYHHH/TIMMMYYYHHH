@@ -1,0 +1,40 @@
+Let teh user change colour 250 3420 420 
+Poprtfolio to show cards on desktop
+
+
+https://youtu.be/27JtRAI3QO8?t=7322
+  Services as blog;
+
+Languages I speak HTML, CSS, JavaScript, Python
+
+make dark defualt color
+tool tip over languages
+
+ trying to get better at what he enjoys 
+
+
+ This article is about the journey of a web developer.
+ 
+ 
+I'm a 23-year-old web developer.I love what I do and I want to get better at it. It’s important to have passion in whatever you do in life. Web development is very much a part of my life and helps me live my dreams
+
+This article is meant to inspire other people who are passionate about what they do, and want to get better at it so they can live their dreams.
+
+I'm a 23-year-old web developer who develops for fun. In my free time, I like to dabble in various programming languages and occasionally create small apps or games.
+
+I’m a 23-year-old web developer who loves to develop and create for fun. I started learning how to program a year ago by reading books on HTML, CSS, JavaScript, and Python. My passion for web development led me to create this website to showcase my projects
+===============================================================================
+You may be surprised how much you can learn home a person based on what they do in their spare time.
+"I am a developer, and I like to use the skills that I have learned in my
+profession to develop software that helps me make money at home," said no one ever! As a programmer, I've always been more interested in developing things for fun than anything else.
+===============================================================================     
+
+
+  --first-color-second: hsl(var(--hue-color), 30%, 8%);
+  --title-color: hsl(var(--hue-color), 8%, 95%);
+  --text-color: hsl(var(--hue-color), 8%, 75%);
+  --input-color: hsl(var(--hue-color), 29%, 16%);
+  --body-color: hsl(var(--hue-color), 28%, 12%);
+  --container-color: hsl(var(--hue-color), 29%, 16%);
+  --scroll-bar-color: hsl(var(--hue-color), 12%, 48%);
+  --scroll-thumb-color: hsl(var(--hue-color), 12%, 36%);
